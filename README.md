@@ -13,6 +13,7 @@ git clone https://github.com/royletron/react-protogen name-of-awesome-prototype
 cd name-of-awesome-prototype
 npm i
 bower install
+npm start
 ```
 
 **If you don't already use Bower, be sure to install it beforehand**
